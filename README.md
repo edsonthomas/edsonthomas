@@ -1,4 +1,4 @@
-### Olá eu sou o Edson Thomas, mas pode me chamar só de Thomas! 👋😄
+### Olá eu sou o Edson Thomas, mas pode me chamar somente de Thomas! 👋😄
 
 - 🔭 Hoje estou trabalhando com front-end
 - 🌱 Estudando HTML5, CSS3, Javascript
